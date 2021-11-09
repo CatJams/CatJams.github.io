@@ -12,6 +12,7 @@ Team Catjams have been working on a project for HACC 2021, specifically, a chatb
 ## User Guide
 
 There are two different users for our website, basic users and admin users. The Landing page for the basic users is the chatbot while the admin users default page is Chatbot Statistics. 
+
  ### All Users:  
  * ### Chatbot page: 
  The main page everyone will start on is the chatbot page. This page displays the Dialogflow chatbot, a google api we are utilizing for this project. It 	also provides links and contact information for the Office of Hawaiian Affairs. ![](images/landing-page.jpg)
@@ -19,6 +20,7 @@ There are two different users for our website, basic users and admin users. The 
  This page provides a short tutorial on how to use the chatbot.
  * ### Send Feedback Page: 
  Users who have feedback on the chatbot or website can submit their thoughts through the Send Feedback Page.![](images/send-feedback.jpg)
+ 
  ### Admin Users: 
  * ### Login page: 
  Admin will use this page to login with their credentials.![](images/login.jpg)
