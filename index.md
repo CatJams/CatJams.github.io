@@ -37,14 +37,14 @@ There are two different users for our website, basic users and admin users. The 
   
 ## Developer Guide
 
-* Download [Node.js](https://nodejs.org/en/)
-* Download [Meteor](https://www.meteor.com/)
-* Visit the catbot github page and download .zip or open the project with Github Desktop
-* Once you got the repo downloded on your computer you then cd into the app /app directory and install libaries with:
+1. Download [Node.js](https://nodejs.org/en/)
+2. Download [Meteor](https://www.meteor.com/)
+3. Visit the catbot github page and download .zip or open the project with Github Desktop
+4. Once you got the repo downloded on your computer you then cd into the app /app directory and install libaries with:
 ```
 $ meteor npm install
 ```
-* Once the installation is done, you run the program with
+5. Once the installation is done, you run the program with
 ```
 $ meteor npm run start
 ```
