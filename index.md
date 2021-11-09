@@ -2,7 +2,7 @@
 * [Overview](#overview)
 * [User Guide](#user-guide)
 * [Developer Guide](#developer-guide)
-* [Development History](#developer-history)
+* [Development History](#development-history)
 * [Team](#team)
 
 ## Overview
