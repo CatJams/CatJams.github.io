@@ -5,10 +5,4 @@
 
 ## User Guide
 
-## Community Feedback
-
-## Develope Guide
-
-## DEvelopment history
-
-## Contact Us
+## Development history
