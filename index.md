@@ -1,9 +1,9 @@
 ## Table of Contents
-*[Overview](#overview)
-*[User Guide](#user-guide)
-*[Developer Guide](#developer-guide)
-*[Development History](#developer-history)
-*[Team](#team)
+* [Overview](#overview)
+* [User Guide](#user-guide)
+* [Developer Guide](#developer-guide)
+* [Development History](#developer-history)
+* [Team](#team)
 
 ## overview
 
