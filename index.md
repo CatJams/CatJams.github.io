@@ -18,7 +18,7 @@ There are two different users for our website, basic users and admin users. The 
 	 * Tutorial Page: This page provides a short tutorial on how to use the chatbot.
 	 * Send Feedback Page: Users who have feedback on the chatbot or website can submit their thoughts through the Send Feedback Page.
 	 ![](images/send-feedback.jpg)
-Admin Users: 
+### Admin Users: 
 	 * Login page: Admin will use this page to login with their credentials.
 	 ![](images/login.jpg)
 	 * Chatbot Statistics: This page shows the amount of visitors and chat interaction in a graph format.
