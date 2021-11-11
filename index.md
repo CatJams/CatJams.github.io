@@ -61,5 +61,5 @@ $ meteor npm run start
 
 ## Team
 
-Catbot application is designed, implemented, and maintained by [Braydon Nagasako](https://github.com/Breadonn), [Wenhao Qiu](https://github.com/wenhaoq20), [Zolbo Tomita](https://github.com/TomitaZ).
+Catbot application is designed, implemented, and maintained by [Braydon Nagasako](https://breadonn.github.io/), [Wenhao Qiu](https://wenhaoq20.github.io/), [Zolbo Tomita](https://tomitaz.github.io/).
 
