@@ -57,9 +57,9 @@ $ meteor npm run start
 ```
 
 ## Deployment
+View the application here at [OHA Catbot](http://137.184.112.58/#/)
 
 ## Development History
-[OHA Catbot](http://137.184.112.58/#/)
 
 ### [Milestone 1](https://github.com/catjams/catbot/projects/1): Create a working prototype 
 ### Milestone 2: Optimize and fully integrate a chatbot using Dialog Flow
