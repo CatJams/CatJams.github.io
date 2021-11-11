@@ -57,7 +57,7 @@ $ meteor npm run start
 ```
 
 ## Deployment
-View the application here at [OHA Catbot](http://137.184.112.58/#/)
+View the application here: [OHA Catbot](http://137.184.112.58/#/)
 
 ## Development History
 
