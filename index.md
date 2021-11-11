@@ -1,7 +1,10 @@
+View this project on Github at [Catbot](https://github.com/catjams/catbot)
+
 ## Table of Contents
 * [Overview](#overview)
 * [User Guide](#user-guide)
 * [Developer Guide](#developer-guide)
+* [Deployment](#deployment)
 * [Development History](#development-history)
 * [Team](#team)
 
@@ -53,9 +56,12 @@ $ meteor npm install
 $ meteor npm run start
 ```
 
-## Development History
+## Deployment
 
-### Milestone 1: Create a working prototype 
+## Development History
+[OHA Catbot](http://137.184.112.58/#/)
+
+### [Milestone 1](https://github.com/catjams/catbot/projects/1): Create a working prototype 
 ### Milestone 2: Optimize and fully integrate a chatbot using Dialog Flow
 ### Milestone 3: Finalize application 
 
