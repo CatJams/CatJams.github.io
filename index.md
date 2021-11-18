@@ -29,7 +29,7 @@ There are two different users for our website, basic users and admin users. The 
 
  * ### [Login page](https://catbot.bar/#/signin): 
  Admin will use this page to login with their credentials.![](images/login.jpg)
- * ### [Chatbot Statistics](https://catbot.bar/#/analytics): 
+ * ### [Chatbot Analytics](https://catbot.bar/#/analytics): 
  This page will have three different catergories: Chatbot Statistics, Chatbot Effectiveness, and Satisfaction Rates.
  #### Statistics: page shows the amount of visitors and chat interaction in a graph format.
  #### Effectiveness: the user is prompted with a graph showing if users received the information they were looking for.
