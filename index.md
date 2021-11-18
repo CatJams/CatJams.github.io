@@ -18,7 +18,7 @@ There are two different users for our website, basic users and admin users. The 
 
 ### All Users
  
- * ### [Chatbot page](https://catbot.bar/#/): 
+ * ### [Landing page](https://catbot.bar/#/): 
  The main page everyone will start on is the chatbot page. This page displays the Dialogflow chatbot, a google api we are utilizing for this project. It 	also provides links and contact information for the Office of Hawaiian Affairs. ![](images/landing-page.jpg)
  * ### [Tutorial Page](https://catbot.bar/#/tutor): 
  This page provides a short tutorial on how to use the chatbot.
