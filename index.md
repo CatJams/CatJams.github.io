@@ -18,28 +18,28 @@ There are two different users for our website, basic users and admin users. The 
 
 ### All Users
  
- * ### Chatbot page: 
+ * ### [Chatbot page](https://catbot.bar/#/): 
  The main page everyone will start on is the chatbot page. This page displays the Dialogflow chatbot, a google api we are utilizing for this project. It 	also provides links and contact information for the Office of Hawaiian Affairs. ![](images/landing-page.jpg)
- * ### Tutorial Page: 
+ * ### [Tutorial Page](https://catbot.bar/#/tutor): 
  This page provides a short tutorial on how to use the chatbot.
- * ### Send Feedback Page: 
+ * ### [Send Feedback Page](https://catbot.bar/#/sendfeedback): 
  Users who have feedback on the chatbot or website can submit their thoughts through the Send Feedback Page.![](images/send-feedback.jpg)
  
 ### Admin Users 
 
- * ### Login page: 
+ * ### [Login page](https://catbot.bar/#/signin): 
  Admin will use this page to login with their credentials.![](images/login.jpg)
- * ### Chatbot Statistics: 
+ * ### [Chatbot Statistics](https://catbot.bar/#/analytics): 
  This page shows the amount of visitors and chat interaction in a graph format.
  * ### Chatbot Effectiveness: 
  The user is prompted with a graph showing if users received the information they were looking for.
  * ### Satisfaction Rates: 
  Shows admin users a graph of the satisfaction rate of all chatbot users.
- * ### Add Intent: 
+ * ### [Add Intent](https://catbot.bar/#/addintent): 
  Admin users that want to add a new intent can submit one through this page ![](images/add-intent.jpg)
- * ### List Intent: 
+ * ### [List Intent](https://catbot.bar/#/listintent): 
  Shows admin user’s a list of all intents.![](images/list-intent.jpg)
- * ### Edit Intent:
+ * ### [Edit Intent](https://catbot.bar/#/listintent):
  Allows the admin to edit all of the intents.![](images/edit-intent.jpg)
   
 ## Developer Guide
@@ -57,7 +57,7 @@ $ meteor npm run start
 ```
 
 ## Deployment
-View the application here: [OHA Catbot](http://137.184.112.58/#/)
+View the application here: [OHA Catbot](https://catbot.bar/#/)
 
 ## Development History
 
