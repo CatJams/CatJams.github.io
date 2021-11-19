@@ -31,9 +31,9 @@ There are two different users for our website, basic users and admin users. The 
  Admin will use this page to login with their credentials.![](images/login.jpg)
  * ### [Chatbot Analytics](https://catbot.bar/#/analytics): 
  This page will have three different catergories: Chatbot Statistics, Chatbot Effectiveness, and Satisfaction Rates.
- #### Statistics: page shows the amount of visitors and chat interaction in a graph format.
- #### Effectiveness: the user is prompted with a graph showing if users received the information they were looking for.
- #### Satisfaction Rates: Shows admin users a graph of the satisfaction rate of all chatbot users.
+  Statistics: page shows the amount of visitors and chat interaction in a graph format.
+  Effectiveness: the user is prompted with a graph showing if users received the information they were looking for.
+  Satisfaction Rates: Shows admin users a graph of the satisfaction rate of all chatbot users.
  * ### [Add Intent](https://catbot.bar/#/addintent): 
  Admin users that want to add a new intent can submit one through this page ![](images/add-intent.jpg)
  * ### [List Intent](https://catbot.bar/#/listintent): 
