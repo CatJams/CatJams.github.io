@@ -62,7 +62,7 @@ View the application here: [OHA Catbot](https://catbot.bar/#/)
 
 ### [Milestone 1](https://github.com/catjams/catbot/projects/1): Create a working prototype 
 ### [Milestone 2](https://github.com/catjams/catbot/projects/2): Optimize and fully integrate a chatbot using Dialog Flow
-### Milestone 3: Finalize application 
+### [Milestone 3](https://github.com/catjams/catbot/projects/3): Finalize application 
 
 ## Team
 
