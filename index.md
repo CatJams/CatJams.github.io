@@ -33,7 +33,7 @@ There are two different users for our website, basic users and admin users. The 
  * ### [Admin Page](https://catbot.bar/#/admin):
  This page has three tabs: Activity Feed, Add New Admin Account, and View All Accounts
   Activity Feed: Shows history of admin activity (deleting feedback or intents).![](images/activityFeed.png)
-  Add New Admin Account: Has a button that links to a sign up page where new administrators can create their accounts.![](images/newAccount.png)
+  Add New Admin Account: Has a button that links to a sign up page where new administrators can create their accounts.![](images/newAccount.png)![](images/add-account2.jpg)
   View All Accounts: Allows admin to view all created admin accounts.![](images/viewAccounts.png)
  * ### [Chatbot Analytics](https://catbot.bar/#/analytics): 
  This page will have three different catergories: Chatbot Statistics, Chatbot Effectiveness, and Satisfaction Rates.
@@ -41,7 +41,7 @@ There are two different users for our website, basic users and admin users. The 
   User's Responses: shows a list of user responses.![](images/response.jpg)
   User Ratings: Shows a group of cards about user ratings.![](images/UserRatingsTab.png)
  * ### [View Feedback](https://catbot.bar/#/viewfeedbacks):
- This page allows the admin users to view any feedback the users had and allow modification.![](images/view-feedback.jpg)
+ This page allows the admin users to view any feedback the users had and allow modification.![](images/view-feedback.jpg)![](images/view-feedback2.jpg)
  * ### [Add Intent](https://catbot.bar/#/addintent): 
  Admin users that want to add a new intent can submit one through this page ![](images/add-intent.jpg)
  * ### [List Intent](https://catbot.bar/#/listintent): 
