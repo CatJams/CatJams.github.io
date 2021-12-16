@@ -3,6 +3,7 @@ View this project on Github at [Catbot](https://github.com/catjams/catbot)
 ## Table of Contents
 * [Overview](#overview)
 * [User Guide](#user-guide)
+* [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
 * [Deployment](#deployment)
 * [Development History](#development-history)
@@ -42,6 +43,37 @@ There are two different users for our website, basic users and admin users. The 
  Shows admin user’s a list of all intents.![](images/list-intent.jpg)
  * ### [Edit Intent](https://catbot.bar/#/listintent):
  Allows the admin to edit all of the intents.![](images/edit-intent.jpg)
+ 
+## Community Feedback
+
+### Morresh
+* Thinks the website looks nice and the chatbot does what it needs to do
+* Found a question that the chatbot responds to in weird ways
+* Send feedback page has a lot of empty space. Maybe add something to it
+
+### Dylan
+* Likes that the chatbot gives links and options when asked certain questions
+* The website does what it sets out to do
+* Add a darkmode or slightly darker colors to the pages
+* Make the footer sticky to the bottom of the page
+* Make the images on the tutorial page slightly bigger. Hard to read on large screens
+
+### Evelien
+* Would like a description of what the website/catbot is for!
+* Homepage and Admin pages are nicely done
+* Tutorial page uses words Catbot and Chatbot interchangeably. Stick to one of the other to make it less confusing
+* Chatbot gives funny responses. Limited in recognizing input, but gives good answers for the questions it can recognize
+
+### Andreas
+* The site looks great and is easily accessible, exactly what you're looking for on a chat bot side
+* Chatbot is friendly and has accurate links and information
+* Everything is easy to find and in a logical location
+* The chatbot has a few weird responses to certain questions
+
+### Jacob
+* Website looks nice and everything works well
+* The chatbot gives good responses. Likes that the chatbot can detect questions that are written in an odd way as well
+* Footer should be attached to the bottom of the page. It looks weird on smaller pages.
   
 ## Developer Guide
 
