@@ -72,7 +72,7 @@ There are two different users for our website, basic users and admin users. The 
 
 ### Jacob
 * Website looks nice and everything works well
-* The chatbot gives good responses. Likes that the chatbot can detect questions that are written in an odd way as well
+* The chatbot gives good responses. Likes that the chatbot can detect questions that are written in weird ways
 * Footer should be attached to the bottom of the page. It looks weird on smaller pages.
   
 ## Developer Guide
