@@ -61,7 +61,7 @@ There are two different users for our website, basic users and admin users. The 
 ### Evelien
 * Would like a description of what the website/catbot is for!
 * Homepage and Admin pages are nicely done
-* Tutorial page uses words Catbot and Chatbot interchangeably. Stick to one of the other to make it less confusing
+* Tutorial page uses words Catbot and Chatbot interchangeably. Stick to one or the other to make it less confusing
 * Chatbot gives funny responses. Limited in recognizing input, but gives good answers for the questions it can recognize
 
 ### Andreas
