@@ -32,7 +32,6 @@ There are two different users for our website, basic users and admin users. The 
  Admin will use this page to login with their credentials.![](images/login.jpg)
  * ### [Admin Page](https://catbot.bar/#/admin):
  This page has three tabs: Activity Feed, Add New Admin Account, and View All Accounts
-  
   Activity Feed: Shows history of admin activity (deleting feedback or intents).![](images/activityFeed.png)
   Add New Admin Account: Has a button that links to a sign up page where new administrators can create their accounts.![](images/newAccount.png)
   View All Accounts: Allows admin to view all created admin accounts.![](images/viewAccounts.png)
